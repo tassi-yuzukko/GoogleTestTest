@@ -1,0 +1,3 @@
+[submodule "MyGoogleTest"]
+	path = MyGoogleTest
+	url = https://github.com/tassi-yuzukko/MyGoogleTest.git
